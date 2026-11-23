@@ -27,3 +27,6 @@ LATEST DESIGN UPDATE
 - Navigation logo enlarged modestly.
 - Founder section now places the Infinite Fillosophy logo beside the founder headshot, with responsive layout adjustments for smaller screens.
 - The founder portrait and logo are separate image assets, so either can be replaced later without redesigning the page.
+
+
+Netlify branch preview build verification.
